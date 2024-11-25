@@ -1,2 +1,0 @@
-# HelloWorld
-challengeGithub1
